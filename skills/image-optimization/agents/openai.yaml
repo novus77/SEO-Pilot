@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image Optimization"
+  short_description: "Improve image SEO and page speed"
+  default_prompt: "Use $image-optimization to audit and improve website images for SEO, accessibility, and page performance."
+
+policy:
+  allow_implicit_invocation: true
